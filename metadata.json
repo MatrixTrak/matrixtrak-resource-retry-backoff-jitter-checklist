@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-23T12:20:15.073Z",
+  "generatedAt": "2026-05-23T12:44:42.944Z",
   "resourceSlug": "retry-backoff-jitter-checklist",
   "title": "Retry backoff + jitter checklist (production defaults)",
   "description": "Download includes 2 copy/paste files: retry-backoff-jitter-recipes.md (safe defaults, stop rules, 429 handling, caps/budgets) and retry-telemetry-fields.md (log/metric fields + example line for incident debugging).",
   "category": "Automation Engineering",
   "pillar": "",
+  "access": "free",
+  "sourcePublicPath": "/ship/backoff-and-jitter-safe-retries.zip",
+  "includedRepoFiles": [
+    "resources/backoff-and-jitter-safe-retries.zip"
+  ],
   "canonicalResourceUrl": "https://matrixtrak.com/resources/retry-backoff-jitter-checklist",
   "primaryPostSlugs": [
     "backoff-and-jitter-safe-retries"

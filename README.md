@@ -17,6 +17,14 @@ It is designed for quick implementation support, community sharing, and stable v
 
 Download includes 2 copy/paste files: retry-backoff-jitter-recipes.md (safe defaults, stop rules, 429 handling, caps/budgets) and retry-telemetry-fields.md (log/metric fields + example line for incident debugging).
 
+## Repository Contents
+
+- `resources/` contains shipped files copied from MatrixTrak public ship assets when available
+- `docs/post-mapping.md` maps this resource to related blog posts
+- `docs/resource-files.md` lists included files and source mapping
+- Included shipped files:
+  - resources/backoff-and-jitter-safe-retries.zip
+
 ## Who This Is For
 
 - Engineers handling production incidents and reliability gaps
