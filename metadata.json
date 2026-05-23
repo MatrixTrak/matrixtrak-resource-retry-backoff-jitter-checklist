@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T12:44:42.944Z",
+  "generatedAt": "2026-05-23T12:57:42.787Z",
   "resourceSlug": "retry-backoff-jitter-checklist",
   "title": "Retry backoff + jitter checklist (production defaults)",
   "description": "Download includes 2 copy/paste files: retry-backoff-jitter-recipes.md (safe defaults, stop rules, 429 handling, caps/budgets) and retry-telemetry-fields.md (log/metric fields + example line for incident debugging).",
